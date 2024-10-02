@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/long88nguyen/nodejs_blog.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Long Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/long88nguyen/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/long88nguyen/nodejs_blog#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
